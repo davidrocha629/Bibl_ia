@@ -1,6 +1,9 @@
 # Bibl_ia
 # Encontrando Respostas para a Vida com a Sabedoria da Bíblia
 
+![image](https://github.com/davidrocha629/Bibl_ia/assets/160022516/0d24b127-6603-4b8a-af26-f68bda6bda37)
+
+
 Este projeto te conecta com a sabedoria da Bíblia para encontrar respostas e orientação para os desafios da vida. 
 
 Usando um sistema de chat inteligente, você pode explorar os ensinamentos bíblicos e receber mensagens de conforto, esperança e inspiração.
