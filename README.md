@@ -47,3 +47,6 @@ Seja qual for sua dúvida, a Bíblia pode te oferecer uma palavra de conforto, e
 
 ![image](https://github.com/davidrocha629/Bibl_ia/assets/160022516/fe23bbaa-6d33-47e4-bc2a-087e4dace285)
 
+É possivel testar esse codigo atraves do link a seguir usando o Google IA Studio https://aistudio.google.com/app/prompts/1ufgS4T-vseqe-58WsYOMiz7Kh-K1K4Lk ou abrindo esse projeto no Google Colab.
+
+Teste o chat e tenha um ótimo dia.
