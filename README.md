@@ -42,6 +42,8 @@ Seja qual for sua dúvida, a Bíblia pode te oferecer uma palavra de conforto, e
  **Em que área da sua vida você gostaria de receber orientação hoje?**
 
 ## Chat funcionando:
+![image](https://github.com/davidrocha629/Bibl_ia/assets/160022516/ae84244e-fce6-4d10-ac15-7f2e3de99660)
+![image](https://github.com/davidrocha629/Bibl_ia/assets/160022516/92d7d3b0-ca4a-4ff2-aff5-1c66876b6205)
 
 ![image](https://github.com/davidrocha629/Bibl_ia/assets/160022516/fe23bbaa-6d33-47e4-bc2a-087e4dace285)
 
