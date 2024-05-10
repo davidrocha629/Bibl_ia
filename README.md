@@ -37,3 +37,8 @@ Imagine um espaço seguro e acolhedor onde você pode compartilhar suas preocupa
 Seja qual for sua dúvida, a Bíblia pode te oferecer uma palavra de conforto, esperança e orientação.
 
  **Em que área da sua vida você gostaria de receber orientação hoje?**
+
+## Chat funcionando:
+
+![image](https://github.com/davidrocha629/Bibl_ia/assets/160022516/fe23bbaa-6d33-47e4-bc2a-087e4dace285)
+
