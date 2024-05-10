@@ -16,7 +16,7 @@ Modificando apenas o detalhe da api key para proteger o codigo API, conforme det
 """
 At the command line, only need to run once to install the package via pip:
 
-$ pip install google-generativeai
+ pip install google-generativeai
 """
 
 
